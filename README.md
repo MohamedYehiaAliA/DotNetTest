@@ -1,6 +1,6 @@
 This is a test task for DotNET.
 
-1- For this repository to your own github account
+1- Fork this repository to your own github account
 
 2- Adjust connection string to a sql express database (ProjectName.mdf) in the app_data directory
 
