@@ -8,20 +8,28 @@ This is a test task for DotNET.
 
 4- Provide a good code structure: Models | Controllers
 
-5- Create the following Models: A store can have multiple products
-
+5- Create the following 2 Models: 
 Product:
-	ProductName
-	Price
-	Stock
-	IsActive
+		ProductName
+		
+		Price
+		
+		Stock
+		
+		IsActive
+		
+
 Store:
-	Address
-	Name
+		Address
+		
+		Name
+		
+A store can have multiple products
 	
 6- migrate the models to databse using Code first database migration
 
 7- Create APIs for:
 	List/Add/Edit/Delete Products
 	
-8- Create your tests for the apis using postman
+8- tests your apis using postman (download it if you dont have)
+
