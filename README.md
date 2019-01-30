@@ -9,7 +9,9 @@ This is a test task for DotNET.
 4- Provide a good code structure: Models | Controllers
 
 5- Create the following 2 Models: 
+
 Product:
+
 		ProductName
 		
 		Price
