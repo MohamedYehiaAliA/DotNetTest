@@ -2,9 +2,9 @@ This is a test task for DotNET.
 
 1- Fork this repository to your own github account
 
-2- Adjust connection string to a sql express database (ProjectName.mdf) in the app_data directory
+2- Adjust connection string to a sql express database (Store.mdf) in the app_data directory
 
-3- All your code should be under Areas>>ProjectName
+3- All your code should be under Areas>>Store
 
 4- Provide a good code structure: Models | Controllers
 
